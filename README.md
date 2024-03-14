@@ -1,7 +1,7 @@
 # <p align="center">PROYECTO INDIVIDUAL N°01</p>
 ![](https://github.com/WILMERPC02/PI_01/blob/main/imagen_datascience.jpg)
 ## <p align="center">Sistema de recomendación STEAM</p>
-Este es un proyecto de DataScience donde se desarrolla un sistema de recomendación de videojuegos.
+Este es un proyecto donde situandonos en el rol de un MLOps Engineer se desarrolla un sistema de recomendación de videojuegos.
 ### Descripción:
 
 En este trabajo 
