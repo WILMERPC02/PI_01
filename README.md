@@ -9,3 +9,5 @@ El objetivo de este proyecto es desarrollar un sistema de recomendación de vide
 - Python como lenguaje de programación.
 - GitHub como repositorio del proyecto.
 - FastAPI como framework.
+### Vídeo
+En el siguiente enlace se encuentra un vídeo con el resumen del proyecto
