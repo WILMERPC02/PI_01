@@ -1,3 +1,6 @@
+# <p align="center">PROYECTO INDIVIDUAL N°01</p>
+
+
 # PROYECTO INDIVIDUAL N°01
 ![](https://github.com/WILMERPC02/PI_01/blob/main/imagen_datascience.jpg)
 ## SISTEMA DE RECOMENDACIÓN STEAM
