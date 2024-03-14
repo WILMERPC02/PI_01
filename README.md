@@ -1,4 +1,6 @@
-# PROYECTO INDIVIDUAL N°01
+<div style="text-align:center">
+ <span style="font-size:xx-large; font-weight:bold; text-transform:uppercase;">PROYECTO INDIVIDUAL N°01</span>
+</div>
 # SISTEMA DE RECOMENDACIÓN STEAM
 Este es un proyecto de DataScience donde se desarrolla un sistema de recomendación de videojuegos.
 ### Descripción:
