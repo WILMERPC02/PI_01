@@ -5,7 +5,7 @@ Este es un proyecto donde situandonos en el rol de un MLOps Engineer se desarrol
 ### Descripción:
 El objetivo de este proyecto es desarrollar un sistema de recomendación de videojuegos utilizando datos proporcionados por una plataforma de videojuegos. El sistema analizará el comportamiento de los usuarios, las características de los videojuegos y otros datos relevantes para ofrecer recomendaciones personalizadas a los usuarios sobre qué juegos podrían disfrutar.
 ### Herramientas usadas
-- vsc( Visual Studio Code) como editor de código.
+- VSC( Visual Studio Code) como editor de código.
 - Python como lenguaje de programación.
 - GitHub como repositorio del proyecto.
 - FastAPI como framework.
